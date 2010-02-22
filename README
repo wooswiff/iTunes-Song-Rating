@@ -1,0 +1,5 @@
+iChat Song Rating Progress Updater
+
+Instructions:
+
+  This code is untested on any machine other than my own.  Will this work on your computer?  Maybe!  My advice is to open the ranking_progress.scpt file in the AppleScript editor and try to run it.  If it works, you can use the included crontab entries to keep the checkers running at regular intervals (just change YOUR_SRC_DIR to wherever your source directory is).  Or rip it apart and make something cooler.  Let me know if you do!

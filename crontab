@@ -1,1 +1,3 @@
 */10 * * * * /usr/bin/osascript YOUR_SRC_DIR/iTunes-Song-Rating/lib/ranking_progress.scpt
+* * * * * /usr/bin/osascript YOUR_SRC_DIR/iTunes-Song-Rating/lib/check_current_song_rated.scpt
+
